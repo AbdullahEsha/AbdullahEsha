@@ -10,9 +10,12 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me <em>shahariaresha@gmail.com , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/</em>
 
+<hr>
+
 <a href="https://github.com/abdullahisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&theme=dark&hide_langs_below=1" />
 </a>
 
+<hr>
 ![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=radical)
 
