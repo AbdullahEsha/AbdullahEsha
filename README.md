@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Rental-Service**
 
-- 🤔 I’m looking for help with **NodeJS ,ExpressJs, ReactJS**
+- 🤔 I’m looking for help with **`Laravel`, `NodeJS` , `ExpressJs`, `ReactJS`**
 
 - 📫 How to reach me **shahariaresha@gmail.com , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/ **
 
