@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with **`Laravel`, `NodeJS` , `ExpressJs`, `ReactJS`**
 
-- 📫 How to reach me **shahariaresha@gmail.com , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/**
+- 📫 How to reach me <em>shahariaresha@gmail.com , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/</em>
 
 <a href="https://github.com/abdullahisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&theme=dark&hide_langs_below=1" />
