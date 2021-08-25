@@ -1,16 +1,18 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
-
-**AbdullahIsha/AbdullahIsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Abdullah Esha</h1>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **Rental-Service**
+
+- 🤔 I’m looking for help with **NodeJS ,ExpressJs, ReactJS**
+
+- 📫 How to reach me **shahariaresha@gmail.com , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/ **
+
+<a href="https://github.com/abdullahisha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&theme=dark&hide_langs_below=1" />
+</a>
+
+![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=radical)
 
