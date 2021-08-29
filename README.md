@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <hr>
 <a href="https://github.com/abdullahisha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&show_icons=true&theme=gotham" />
 </a>
 
 ![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham)
