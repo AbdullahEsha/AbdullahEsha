@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-<p> <img src="https://komarev.com/ghpvc/?username=abdullahisha&color=brightgreen&style=flat&label=PROFILE+VIEWS" alt="abdullahisha" /> </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=abdullahisha&show_icons=true&theme=gotham" alt="abdullahisha" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1>
 
