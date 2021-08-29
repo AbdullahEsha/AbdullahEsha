@@ -16,5 +16,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&theme=dark&hide_langs_below=1" />
 </a>
 
-![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=radical)
+![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham)
 
