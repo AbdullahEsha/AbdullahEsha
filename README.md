@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **`a_project_based_on_Laravel_V8`**
+- 🔭 I’m currently working on **`a_project_based_on_Laravel_8x`**
 
 - 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/abdullahisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&show_icons=true&theme=gotham" />
 </a>
-
+<br>
 ![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham)
 
