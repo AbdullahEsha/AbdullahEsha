@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
 
-- 📫 How to reach me <a href="mailto:shahariaresha@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iphonetricks.org%2Fhow-to-download-gmail-icon-for-ios%2F&psig=AOvVaw1QIpgNBpISxSkwA0EehHam&ust=1642538152739000&source=images&cd=vfe&ved=2ahUKEwi5x6HK0bn1AhVQW2wGHbT-Cb8QjRx6BAgAEAk" alt="gmail" width="40" height="30"></a> , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/
+- 📫 How to reach me <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="40" height="30"></a> , https://www.facebook.com/shahriar.isha , https://www.linkedin.com/in/abdullah-esha-b49ba0175/
 
 <hr>
 <a href="https://github.com/abdullahisha">
