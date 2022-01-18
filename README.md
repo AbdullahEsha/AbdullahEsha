@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*
 
