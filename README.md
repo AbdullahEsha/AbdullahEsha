@@ -15,5 +15,7 @@
 </a>
 
 ![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham)
+
+[moltack_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=moltack
      
 
