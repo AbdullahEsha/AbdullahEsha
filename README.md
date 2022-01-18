@@ -13,7 +13,5 @@
 <br>
 <a href="https://github.com/abdullahisha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&show_icons=true&theme=gotham" />
-</a>
-
-![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham)
+</a> ![Abdullah Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham)
 
