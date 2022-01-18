@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **`a_project_based_on_Laravel_8x`**
+- 🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*
 
 - 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
 
