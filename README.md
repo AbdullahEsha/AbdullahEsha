@@ -5,11 +5,15 @@
 <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1>
 
 <div align="center">
-- 🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*
+<ul>
+<li>🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*</li>
 
-- 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
+<li>🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**</li>
 
-- 📫 How to reach me: <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="20"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="30" height="20"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="20"></a>
+<li>
+    📫 How to reach me: <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="20"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="30" height="20"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="20"></a>
+    </li>
+</ul>
 </div>
 
 <a href="https://github.com/abdullahisha">
