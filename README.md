@@ -3,7 +3,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=abdullahisha&show_icons=true&theme=gotham" alt="abdullahisha" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1>
-
 <hr>
 
 - 🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*
@@ -20,6 +19,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&show_icons=true&theme=gotham" />
 </a>
 </div>
+
+<br>
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=gotham" />
