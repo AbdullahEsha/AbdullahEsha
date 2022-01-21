@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="20"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="30" height="20"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="20"></a>
  
-<a href="https://github.com/abdullahisha">
+<a href="https://github.com/abdullahisha" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&show_icons=true&theme=gotham" />
 </a>
 
