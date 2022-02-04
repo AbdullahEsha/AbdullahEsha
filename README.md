@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*
 
-- 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
+- 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`** 
 
-- 📫 How to reach me: <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="20"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="30" height="20"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="20"></a>
+- 📫 How to reach me: <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="20"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="30" height="20"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="20"></a> <a href="https://abdullahisha.github.io/"><img src="https://www.flaticon.com/premium-icon/web_1084269?term=web&page=1&position=18&page=1&position=18&related_id=1084269&origin=tag" alt="facebook" width="30" height="20"></a>
 
 <hr>
 
