@@ -8,9 +8,8 @@
 - 🔭 I’m currently working on *`A project based on Laravel 8x & ReactJs`*
 
 - 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
-- 
--
-- 📫 How to reach me: <a href="https://abdullahisha.github.io/"><img src="https://raw.githubusercontent.com/AbdullahIsha/AbdullahIsha/main/1084269.png" alt="website" width="30" height="27"></a> <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="30" height="27"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="30" height="27"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="30" height="27"></a> 
+
+- 📫 How to reach me: <a href="https://abdullahisha.github.io/"><img src="https://raw.githubusercontent.com/AbdullahIsha/AbdullahIsha/main/1084269.png" alt="website" width="25" height="22"></a> <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25" height="22"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" alt="facebook" width="25" height="22"></a> <a href="https://www.linkedin.com/in/abdullah-esha-b49ba0175/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25" height="22"></a> 
 
 <hr>
 
