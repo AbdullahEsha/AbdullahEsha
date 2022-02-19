@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
 <p> <img src="https://komarev.com/ghpvc/?username=abdullahisha&show_icons=true&theme=gotham" alt="abdullahisha" /> </p>
