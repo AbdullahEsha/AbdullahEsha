@@ -15,12 +15,12 @@
 
 <div align="center">
 <a href="https://github.com/abdullahisha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwashutaro0611&&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwashutaro0611&layout=compact&theme=city_lights" />
 </a>
 </div>
 
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahisha&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahisha&layout=compact&show_icons=true&theme=city_lights" />
 </div>
