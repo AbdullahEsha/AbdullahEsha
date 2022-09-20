@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`**
 
-- 📫 How to reach me: <a href="https://abdullahisha.github.io/"><img src="https://raw.githubusercontent.com/AbdullahIsha/AbdullahIsha/main/1084269.png" alt="website" width="25" height="22"></a> <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25" height="22"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" alt="facebook" width="25" height="22"></a> <a href="https://www.linkedin.com/in/AbdullahEsha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25" height="22"></a> 
+- 📫 How to reach me: <a href="https://abdullahisha.github.io/"><img src="https://raw.githubusercontent.com/AbdullahIsha/AbdullahIsha/main/1084269.png" alt="website" width="25px" height="22px"></a> <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25px" height="22px"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" alt="facebook" width="25px" height="22px"></a> <a href="https://www.linkedin.com/in/AbdullahEsha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25px" height="22px"></a> 
 
 <hr>
 
