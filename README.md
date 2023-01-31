@@ -1,3 +1,7 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+<p> <img src="https://komarev.com/ghpvc/?username=abdullahisha&show_icons=true&theme=gotham" alt="abdullahisha" /> </p>
 <div align="center" >
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
@@ -6,11 +10,8 @@
 
  
  </div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
 
-<p> <img src="https://komarev.com/ghpvc/?username=abdullahisha&show_icons=true&theme=gotham" alt="abdullahisha" /> </p>
-
-<h1 align="center">Hi there 👋, I'm Abdullah Esha</h1>
+<!-- <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1> -->
 <hr>
 
 - 🔭 I’m currently working on *`Few project's based on Laravel 9x, ReactJs & NextJs`*
