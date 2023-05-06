@@ -16,14 +16,14 @@
 
 - 🔭 I’m currently working on *`Few project's based on Laravel 9x, ReactJs & NextJs`*
 
-- 🤔 I’m looking for help with **`ReactJS`, `NodeJS` , `ExpressJs`, `Laravel`, `NextJs`, `React Native`**
+- 🤔 I’m looking for help with **`NodeJS` , `NextJs`, `React Native`**
 
 - 📫 How to reach me: <a href="https://abdullahisha.github.io/"><img src="https://raw.githubusercontent.com/AbdullahIsha/AbdullahIsha/main/1084269.png" alt="website" width="25px" height="22px"></a> <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25px" height="22px"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" alt="facebook" width="25px" height="22px"></a> <a href="https://www.linkedin.com/in/AbdullahEsha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25px" height="22px"></a> 
 
 <hr/>
 
 <!-- <details> -->
-  - <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br/>
   <p align="left">
    <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
@@ -48,7 +48,6 @@
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-   
  </p>
 <!-- </details> -->
 
