@@ -55,12 +55,12 @@
 
 <div align="center">
 <a href="https://github.com/abdullahisha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahisha&layout=compact&theme=city_lights" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahesha&layout=compact&theme=city_lights" />
 </a>
 </div>
 
 <br>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahisha&layout=compact&show_icons=true&theme=city_lights" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahesha&layout=compact&show_icons=true&theme=city_lights" />
 </div>
