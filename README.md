@@ -31,7 +31,7 @@
    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-   <a href="https://expressjs.com" target="_blank"> <img src="https://moldoweb.com/wp-content/uploads/2022/03/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/></a>
+   <a href="https://expressjs.com" target="_blank"> <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" alt="express" width="40" height="40"/></a>
    <a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
    <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/></a>
    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
