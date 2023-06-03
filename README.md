@@ -14,7 +14,7 @@
 <!-- <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1> -->
 <hr>
 
-- 🔭 I’m currently working on *`Few project's based on Laravel 9x, ReactJs & NextJs`*
+- 🔭 I’m currently working on *`A project based on NextJs [13.4], Express Js & MongoDB`*
 
 - 🤔 I’m looking for help with **`NodeJS` , `NextJs`, `React Native`**
 
