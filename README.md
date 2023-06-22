@@ -32,11 +32,12 @@
    <a href="https://tailwindcss.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/></a>
    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
    <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/AbdullahEsha/AbdullahEsha/main/rtk-logo.svg" alt="rtk-logo" width="40" height="40"/></a>
+   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   
    <a href="https://nodejs.org" target="_blank"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://expressjs.com" target="_blank"> <img src="https://www.guayerd.com/wp-content/uploads/2021/04/expressjs-logo.svg" alt="express" width="40" height="40"/></a>
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/></a>
-   <a href="https://nextjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
+   <a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/></a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
    <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/></a>
    
