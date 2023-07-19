@@ -70,13 +70,13 @@
 <hr/>
 
 <div align="center">
-<a href="https://github.com/abdullahesha">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahesha&layout=compact&theme=city_lights">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahesha&layout=compact&theme=city_lights" />
-</a>
+  </a>
 </div>
-
 <br>
-
 <div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=abdullahesha&layout=compact&show_icons=true&theme=city_lights">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahesha&layout=compact&show_icons=true&theme=city_lights" />
+  </a>
 </div>
