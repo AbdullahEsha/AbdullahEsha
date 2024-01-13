@@ -14,9 +14,9 @@
 <!-- <h1 align="center">Hi there 👋, I'm Abdullah Esha</h1> -->
 <hr>
 
-- 🔭 I’m currently working on *`A project based on NextJs [14.0.1], Express Js & MongoDB`*
+- 🔭 I’m currently working on *`A project based on NextJs [14.0.1], Express Js (Typescript) & MongoDB`*
 
-- 🤔 I’m looking for help with **`NodeJS` , `NextJs`, `React Native`**
+- 🤔 I’m looking for help with **`NodeJS`, `NextJs`, `React Native`**
 
 - 📫 How to reach me: <a href="https://abdullahesha.github.io/"><img src="https://raw.githubusercontent.com/AbdullahEsha/AbdullahEsha/main/1084269.png" alt="website" width="25px" height="22px"></a> <a href="mailto:shahariaresha@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="25px" height="22px"></a> <a href="https://www.facebook.com/shahriar.isha"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" alt="facebook" width="25px" height="22px"></a> <a href="https://www.linkedin.com/in/AbdullahEsha/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="25px" height="22px"></a> 
 
